@@ -1,0 +1,30 @@
+[
+    {
+        "idcita":"1",
+        "tipodecorte":"sencillo",
+        "silladebarbero":"4",
+        "hora":"1:00 pm",
+        "costo":"15000"
+    },
+    {
+        "idcita":"2",
+        "tipodecorte":"corte y barba",
+        "silladebarbero":"1",
+        "hora":"3:00 pm",
+        "costo":"20000"
+    },
+    {
+        "idcita":"3",
+        "tipodecorte":"corte, barba y exfoliacion",
+        "silladebarbero":"2",
+        "hora":"2:00 pm",
+        "costo":"30000"
+    },
+    {
+        "idcita":"4",
+        "tipodecorte":"barba y exfoliacion",
+        "silladebarbero":"3",
+        "hora":"5:00 pm",
+        "costo":"18000"
+    }
+]
